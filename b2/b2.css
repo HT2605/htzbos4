@@ -1,0 +1,425 @@
+body{
+	background-image: url('img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.div1{
+	height: 100px;
+	width: 100%;
+}
+.zent{
+	height: 100px;
+	width: 20%;
+	font-family: arial;
+	font-size: 30px;
+	line-height: 100px;
+	margin-left: 50px;
+	float: left;
+}
+.a1{
+	text-decoration: none;
+	color: black;
+}
+.space1{
+	width: 30%;
+	height: 100px;
+	float: left;
+}
+.menungang{
+	width: 40%;
+	height: 100px;
+	float: left;
+}
+.menungang1{
+	float: left;
+	height: 100px;
+	line-height: 100px;
+	margin-left: 7px;
+	margin-right: 7px;
+}
+.a2{
+	color: black;
+	text-decoration: none;
+}
+.bt1{
+	height: 35px;
+}
+.div2{
+	width: 20%;
+	margin-left: 10px;
+	height: 630px;
+	float: left;
+}
+.list1{
+	list-style: none;
+	margin-bottom: 9px;
+}
+.a3{
+	text-decoration: none;
+	color: grey;
+}
+.list1:hover .a3{
+	color: black;
+	text-decoration: underline;
+}
+.div3{
+	width: 40%;
+	height: 630px;
+	float: left;
+	padding: 10px;
+}
+.div31{
+	width: 145px;
+	height: 180px;
+	background-color: grey;
+	float: left;
+	margin: 10px 5px;
+	border-radius: 10px;
+	position: relative;
+	
+}
+.tieude1{
+	width: 140.25px;
+	height: 30px;
+	background-color: white;
+	border-top-right-radius: 10px; 
+	border-top-left-radius: 10px; 
+	line-height: 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 5px;
+	float: left;
+	position: relative;
+	z-index: 1;
+}
+.anh1{
+	background-image: url('img/ip.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 150px;
+	width: 100%;
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	float: left;
+	z-index: 1;
+}
+.ten1{
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	width: 145px;
+	height: 30px;
+	opacity: 0.6;
+	position: absolute;
+	float: left;
+	bottom: 0px;
+	line-height: 30px;
+	padding-left:; 5px;
+	color: white;
+	background-color: #222222;
+	z-index: 1;
+}
+
+.tieude2{
+	width: 140.25px;
+	height: 30px;
+	background-color: white;
+	border-top-right-radius: 10px; 
+	border-top-left-radius: 10px; 
+	line-height: 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 5px;
+	float: left;
+	position: relative;
+}
+.anh2{
+	background-image: url('img/travel.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 150px;
+	width: 100%;
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	float: left;
+}
+.ten2{
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	width: 145px;
+	height: 30px;
+	opacity: 0.6;
+	position: absolute;
+	float: left;
+	bottom: 0px;
+	line-height: 30px;
+	padding-left:; 5px;
+	color: white;
+	background-color: #222222;
+}
+
+.tieude3{
+	width: 140.25px;
+	height: 30px;
+	background-color: white;
+	border-top-right-radius: 10px; 
+	border-top-left-radius: 10px; 
+	line-height: 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 5px;
+	float: left;
+	position: relative;
+}
+.anh3{
+	background-image: url('img/photo.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 150px;
+	width: 100%;
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	float: left;
+}
+.ten3{
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	width: 145px;
+	height: 30px;
+	opacity: 0.6;
+	position: absolute;
+	float: left;
+	bottom: 0px;
+	line-height: 30px;
+	padding-left:; 5px;
+	color: white;
+	background-color: #222222;
+}
+
+.tieude4{
+	width: 140.25px;
+	height: 30px;
+	background-color: white;
+	border-top-right-radius: 10px; 
+	border-top-left-radius: 10px; 
+	line-height: 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 5px;
+	float: left;
+	position: relative;
+}
+.anh4{
+	background-image: url('img/finance.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 150px;
+	width: 100%;
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	float: left;
+}
+.ten4{
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	width: 145px;
+	height: 30px;
+	opacity: 0.6;
+	position: absolute;
+	float: left;
+	bottom: 0px;
+	line-height: 30px;
+	padding-left:; 5px;
+	color: white;
+	background-color: #222222;
+}
+
+.tieude5{
+	width: 140.25px;
+	height: 30px;
+	background-color: white;
+	border-top-right-radius: 10px; 
+	border-top-left-radius: 10px; 
+	line-height: 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 5px;
+	float: left;
+	position: relative;
+}
+.anh5{
+	background-image: url('img/movie.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 150px;
+	width: 100%;
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	float: left;
+}
+.ten5{
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	width: 145px;
+	height: 30px;
+	opacity: 0.6;
+	position: absolute;
+	float: left;
+	bottom: 0px;
+	line-height: 30px;
+	padding-left:; 5px;
+	color: white;
+	background-color: #222222;
+}
+
+.tieude6{
+	width: 140.25px;
+	height: 30px;
+	background-color: white;
+	border-top-right-radius: 10px; 
+	border-top-left-radius: 10px; 
+	line-height: 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 5px;
+	float: left;
+	position: relative;
+}
+.anh6{
+	background-image: url('img/cooking.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 150px;
+	width: 100%;
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	float: left;
+}
+.ten6{
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	width: 145px;
+	height: 30px;
+	opacity: 0.6;
+	position: absolute;
+	float: left;
+	bottom: 0px;
+	line-height: 30px;
+	padding-left:; 5px;
+	color: white;
+	background-color: #222222;
+}
+
+.tieude7{
+	width: 140.25px;
+	height: 30px;
+	background-color: white;
+	border-top-right-radius: 10px; 
+	border-top-left-radius: 10px; 
+	line-height: 20px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 5px;
+	float: left;
+	position: relative;
+}
+.anh7{
+	background-image: url('img/fashion.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 150px;
+	width: 100%;
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	float: left;
+}
+.ten7{
+	border-bottom-right-radius: 10px; 
+	border-bottom-left-radius: 10px; 
+	width: 145px;
+	height: 30px;
+	opacity: 0.6;
+	position: absolute;
+	float: left;
+	bottom: 0px;
+	line-height: 30px;
+	padding-left:; 5px;
+	color: white;
+	background-color: #222222;
+}
+
+.a4{
+	color: white;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+.anh1:hover{
+	position: relative;
+	z-index: 100;
+	width: 200px;
+	height: 200px;
+}
+.anh2:hover{
+	position: relative;
+	z-index: 100;
+	width: 200px;
+	height: 200px;
+}
+.anh3:hover{
+	position: relative;
+	z-index: 100;
+	width: 200px;
+	height: 200px;
+}
+.anh4:hover{
+	position: relative;
+	z-index: 100;
+	width: 200px;
+	height: 200px;
+}
+.anh5:hover{
+	position: relative;
+	z-index: 100;
+	width: 200px;
+	height: 200px;
+}
+.anh6:hover{
+	position: relative;
+	z-index: 100;
+	width: 200px;
+	height: 200px;
+}
+.anh7:hover{
+	position: relative;
+	z-index: 100;
+	width: 200px;
+	height: 200px;
+}
+.footer{
+	width: 100%;
+	height: 50px;
+	float: left;
+}
+.ulf{
+	font-size: 12px;
+}
+.listf{
+	list-style: none;
+	display: inline-block;
+	font-size: 12px;
+	margin:0 5px 0;
+}
